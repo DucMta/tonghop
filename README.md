@@ -1,2 +1,1 @@
-day la HuynhDuc
-Huynhduc
+Le Huynh Duc
